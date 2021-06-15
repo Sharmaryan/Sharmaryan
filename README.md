@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharmaryan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript and little bit git
+- 🌱 I’m currently learning React Js and GitHub
 - 💞️ I’m looking to collaborate on ...
 
 
